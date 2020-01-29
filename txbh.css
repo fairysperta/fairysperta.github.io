@@ -1,0 +1,7 @@
+// �����ʽ
+*{
+      cursor: url("/img/sword_1.ico"),auto!important 
+  }
+  :active {
+      cursor: url("/img/sword_2.ico"),auto!important
+  }
