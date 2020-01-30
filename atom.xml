@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>妖エルフ・キング</title>
   
-  <subtitle>妖エルフ・キング</subtitle>
+  <subtitle>守望初心，简单一点儿。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="fairy.github.io/"/>
-  <updated>2020-01-28T10:48:42.983Z</updated>
-  <id>fairy.github.io/</id>
+  <link href="fairysperta.github.io/"/>
+  <updated>2020-01-30T15:02:00.939Z</updated>
+  <id>fairysperta.github.io/</id>
   
   <author>
     <name>妖エルフ・キング</name>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="fairy.github.io/2020/01/29/hello-world5/"/>
-    <id>fairy.github.io/2020/01/29/hello-world5/</id>
-    <published>2020-01-29T09:47:21.838Z</published>
-    <updated>2020-01-28T10:48:42.983Z</updated>
+    <title>IntelliJ IDEA 2019.3.2完美破解</title>
+    <link href="fairysperta.github.io/2020/01/30/IntelliJ-IDEA-2019-3-2%E5%AE%8C%E7%BE%8E%E7%A0%B4%E8%A7%A3/"/>
+    <id>fairysperta.github.io/2020/01/30/IntelliJ-IDEA-2019-3-2%E5%AE%8C%E7%BE%8E%E7%A0%B4%E8%A7%A3/</id>
+    <published>2020-01-30T14:14:00.000Z</published>
+    <updated>2020-01-30T15:02:00.939Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>1、下载IDEA 链接：</p><p><a href="https://pan.baidu.com/s/16uV6pZzk-D5ynGDIoatQ8A" target="_blank" rel="noopener">https://pan.baidu.com/s/16uV6pZzk-D5ynGDIoatQ8A</a></p><p>提取码：p0ve</p><p>下载破解所需jetbrains-agent.jar:<br><a href="https://pan.baidu.com/s/1E4MPqD3pDexZY93JDBcftQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1E4MPqD3pDexZY93JDBcftQ </a></p><p>提取码：xx19<br>2、安装完毕后，将破解文件“jetbrains-gent.jar”<br>和“important.txt”拷贝至idea安装目录的bin下，然后启动你的IDE，<br>如果上来就需要注册，选择：试用（Evaluate for free）进入IDE<br>3、点击你要注册的IDE菜单：<br>“Configure” 或 “Help” -&gt; “Edit Custom VM Options …” 如果提示是否要创建文件，请点”Yes”。</p><p>参考文章：<a href="https://intellij-support.jetbrains.com/hc/en-us/articles/206544869" target="_blank" rel="noopener">https://intellij-support.jetbrains.com/hc/en-us/articles/206544869</a></p><p>4、打开vmoptions编辑窗口后<br>-javaagent:/absolute/path/to/jetbrains-agent.jar。<br>一定要自己确认好路径(不要使用中文路径)，填错会导致IDE打不开！！！!<br><img src="/images/pasted-0.png" alt="upload successful"></p><p>注意事项：</p><p>一个vmoptions内只能有一个-javaagent参数。</p><pre><code>示例:  mac:      -javaagent:/Users/neo/jetbrains-agent.jar  linux:    -javaagent:/home/neo/jetbrains-agent.jar  windows:  -javaagent:C:\Users\neo\jetbrains-agent.jar如果还是填错了，参考这篇文章编辑vmoptions补救：[https://intellij-support.jetbrains.com/hc/en-us/articles/206544519](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519)</code></pre><p> 5、重启IDE，点击IDE菜单 “Help” -&gt; “Register…” 或 “Configure” -&gt; “Manage License…”</p><p> 支持两种注册方式：License server 和 Activation code:</p><pre><code>1). 选择License server方式，地址填入：http://jetbrains-license-server 或者点击按钮：&quot;Discover Server&quot;来自动填充地址。网络不佳的见第2种方式。2). 选择Activation code方式离线激活，请使用：下载好的jetbrains-agent.rar中ACTIVATION_CODE.txt 内的注册码激活    如果激活窗口一直弹出（error 1653219），请去hosts文件里移除jetbrains相关的项目    License key is in legacy format == Key invalid，表示agent配置未生效。</code></pre><p>6、激活成功效果如下:</p><p><img src="/images/pasted-1.png" alt="upload successful"></p><p>参考：<a href="https://zhile.io/2018/08/17/jetbrains-license-server-crack.html" target="_blank" rel="noopener">https://zhile.io/2018/08/17/jetbrains-license-server-crack.html</a><br><a href="https://github.com/jmzhoulab/develop-tools/blob/master/idea/crack.md" target="_blank" rel="noopener">https://github.com/jmzhoulab/develop-tools/blob/master/idea/crack.md</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;1、下载IDEA 链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pan.baidu.com/s/16uV6pZzk-D5ynGDIoatQ8A&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pan.baidu.com/s/16uV
       
     
     </summary>
@@ -40,74 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="fairy.github.io/2020/01/29/hello-world4/"/>
-    <id>fairy.github.io/2020/01/29/hello-world4/</id>
-    <published>2020-01-29T09:47:16.649Z</published>
-    <updated>2020-01-28T10:48:42.983Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="fairy.github.io/2020/01/29/hello-world3/"/>
-    <id>fairy.github.io/2020/01/29/hello-world3/</id>
-    <published>2020-01-29T09:46:45.788Z</published>
-    <updated>2020-01-28T10:48:42.983Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="fairy.github.io/2020/01/29/hello-world2/"/>
-    <id>fairy.github.io/2020/01/29/hello-world2/</id>
-    <published>2020-01-29T09:46:37.696Z</published>
-    <updated>2020-01-28T10:48:42.983Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="fairy.github.io/2020/01/28/hello-world/"/>
-    <id>fairy.github.io/2020/01/28/hello-world/</id>
+    <link href="fairysperta.github.io/2020/01/28/hello-world/"/>
+    <id>fairysperta.github.io/2020/01/28/hello-world/</id>
     <published>2020-01-28T10:48:42.982Z</published>
     <updated>2020-01-28T10:48:42.983Z</updated>
     
